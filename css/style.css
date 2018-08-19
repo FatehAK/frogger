@@ -41,13 +41,13 @@ header > h1 > img {
 .lives-info {
     position: relative;
     top: 21px;
-    right: 310px;
+    right: 290px;
     color: #fff;
 }
 
 .hearts {
     display: inline-block;
-    margin: 0 410px 5px -80px;
+    margin: 0 375px 5px -80px;
     padding: 0 0 20px 0;
 }
 
@@ -102,8 +102,8 @@ header > h1 > img {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    width: 675px;
-    height: 645px;
+    width: 630px;
+    height: 640px;
     background: #fff;
     border: 1px solid #343346;
     border-radius: 15px;
@@ -111,7 +111,7 @@ header > h1 > img {
 
 .canvas-body {
     padding: 0 0 33px 0;
-    width: 620px;
+    width: 580px;
     height: 700px;
 }
 
