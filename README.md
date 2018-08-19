@@ -6,7 +6,7 @@ Frogger is a remake of the classic arcade frogger game in which the player reach
 * Navigate the player across the game and avoid colliding with the enemy bugs.
 * Colliding with enemies will reset you back to the initial position.
 * Your goal is to reach the river on top to win the game.
-* You wil given 3 lives so use them well. Good Luck!!
+* You are given with 3 lives so use them well. Good Luck!!
 
 ### Play the Game
 * You can clone the repository and open 'index.html' to run the game locally. (or)
