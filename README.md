@@ -9,8 +9,8 @@ Frogger is a remake of the classic arcade frogger game in which the player reach
 * You are given with 3 lives so use them well. Good Luck!!
 
 ### Play the Game
-* You can clone the repository and open 'index.html' to run the game locally. (or)
-* You can checkout the game live using this [link](https://fatehak.github.io/Frogger-Game/).
+* You can checkout the game live - https://fatehak.github.io/Frogger (or)
+* You can clone the repository and open 'index.html' to run the game locally. 
 
 ### Dependencies
 * googlefonts [link](https://fonts.googleapis.com/css?family=Lato:300,400)
