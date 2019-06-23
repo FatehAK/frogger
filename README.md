@@ -3,7 +3,7 @@ Frogger is a remake of the classic arcade frogger game in which the player reach
 
 ### Play the Game
 * You can checkout the game live - https://forggerarcade.netlify.com (or)
-* You can clone the repository and open 'index.html' to run the game locally. 
+* You can clone the repository and open 'index.html' to run the game locally 
 
 ### How to Play
 * Use arrow keys (up, down, left, right) to control the player movement.
