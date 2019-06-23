@@ -1,5 +1,5 @@
 # Frogger
-Frogger is a remake of the classic arcade frogger game in which the player reaches the end of the board while avoiding enemies. This game makes use of Object Oriented JavaScript to provide its functionality
+Frogger is a remake of the classic arcade frogger game in which the player reaches the end of the board while avoiding enemies. This game makes use of Object Oriented JavaScript to provide its functionality.
 
 ### Play the Game
 * You can checkout the game live - https://forggerarcade.netlify.com (or)
