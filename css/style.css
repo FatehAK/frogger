@@ -32,6 +32,7 @@ body {
     flex-direction: column;
 }
 
+/* header */
 header > h1 {
     font-size: 34px;
     letter-spacing: 3px;
@@ -47,10 +48,7 @@ header > h1 > img {
     width: 50px;
 }
 
-/*
- * Styles for the Hearts
- */
-
+/* lives */
 .lives-info {
     position: relative;
     top: 21px;
@@ -72,10 +70,7 @@ header > h1 > img {
     letter-spacing: 1px;
 }
 
-/*
- * Styles for the Start panel
- */
-
+/* welcome screen */
 .start-panel {
     position: absolute;
     margin: auto;
@@ -106,10 +101,7 @@ header > h1 > img {
     letter-spacing: 10px;
 }
 
-/*
- * Styles for the Canvas
- */
-
+/* canvas */
 .canvas-bg {
     display: flex;
     justify-content: center;
@@ -127,10 +119,7 @@ header > h1 > img {
     height: 650px;
 }
 
-/*
- * Styles for the Modal
- */
-
+/* modal */
 .modal-bg {
     position: absolute;
     top: 0;
@@ -177,8 +166,7 @@ header > h1 > img {
     display: inline;
 }
 
-/* Styles for the Win modal */
-
+/* win modal */
 .modal-info {
     padding: 20px 0 0 0;
 }
@@ -188,8 +176,7 @@ header > h1 > img {
     padding: 0;
 }
 
-/* Styles for the Loss modal */
-
+/* loss modal */
 .lost-modal {
     height: 210px;
     width: 390px;
@@ -204,10 +191,7 @@ header > h1 > img {
     font-size: 19px;
 }
 
-/*
- * Styles for the Footer
- */
-
+/* footer */
 .footer > p {
     margin: 100px 0 0 0;
     font-size: 13px;

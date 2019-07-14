@@ -8,11 +8,11 @@
 (function (global) {
     let doc = global.document,
         win = global.window,
-        // create the canvas element and grab 2D context
+        //create the canvas element and grab 2D context
         canvas = doc.createElement('canvas'),
         ctx = canvas.getContext('2d'),
         lastTime, frame;
-    // set canvas dimensions
+    //set canvas dimensions
     canvas.width = 505;
     canvas.height = 606;
     // get our elements
@@ -97,12 +97,12 @@
             gameWin.classList.toggle('hide');
             getHeart();
         } else {
-            // if player has not won call the function again to draw next frame
+            //if player has not won call the function again to draw next frame
             frame = win.requestAnimationFrame(main);
         }
     }
 
-    // get the hearts remaining and add it to the modal
+    //get the hearts remaining and add it to the modal
     function getHeart() {
         const heartList = document.querySelectorAll('.hearts li');
         const modalHeart = document.querySelector('.modal-heart');
@@ -163,7 +163,7 @@
             numCols = 5,
             row, col;
 
-        // before drawing, clear existing canvas
+        //before drawing, clear existing canvas
         ctx.clearRect(0, 0, canvas.width, canvas.height)
 
         /* Loop through the rows and columns we've defined above and, using the
